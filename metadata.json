@@ -1,0 +1,5 @@
+{
+  "name": "Tank Calibration Report Generator",
+  "description": "An application to process tank calibration CSV data, format it according to user specifications, validate it against field measurements, and generate interactive, PDF, and Excel reports.",
+  "requestFramePermissions": []
+}
